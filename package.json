@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "node": "^16.17.0",
+    "underscore": "^1.13.4"
+  },
+  "name": "core_module_class_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
