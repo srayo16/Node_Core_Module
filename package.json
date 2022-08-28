@@ -2,6 +2,7 @@
   "dependencies": {
     "http-server": "^14.1.1",
     "node": "^16.17.0",
+    "nodemon": "^2.0.19",
     "underscore": "^1.13.4"
   },
   "name": "core_module_class_2",

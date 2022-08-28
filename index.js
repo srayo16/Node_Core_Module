@@ -27,7 +27,7 @@ const server = http.createServer((req, res) => {
     }
     else if (req.url == "/about") {
         res.writeHead(200, { "Content-Type": "text/html" });
-        res.write("<h2>Hello dear sona</h2>");
+        res.write("<h2>Hello dear world</h2>");
         res.end();
     }
 
